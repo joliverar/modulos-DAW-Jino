@@ -3,3 +3,5 @@
 Modulo 1
 modulo 2
 modulo 3
+
+LAs caracteristicas positivas del curso son, que se requieren herramientas muy necesarias aparte de saber programar
